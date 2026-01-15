@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+outputs/*.csv
+outputs/*.json
+*.egg-info/
+dist/
+build/
+.nemo_cache/
+nemo_experiments/

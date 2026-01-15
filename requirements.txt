@@ -1,0 +1,12 @@
+# ClinicalNER — Dependencies
+# NVIDIA NeMo (core NLP stack)
+nemo_toolkit[nlp]>=1.22.0
+
+# UI
+streamlit>=1.32.0
+
+# Data
+pandas>=2.0.0
+
+# Optional: for local model caching
+huggingface-hub>=0.21.0
