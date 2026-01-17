@@ -211,3 +211,5 @@ class ClinicalNEREngine:
             if ent["word"] not in summary[label]:
                 summary[label].append(ent["word"])
         return summary
+
+# v1.1 - improved fallback pattern matching for DOSAGE entities
