@@ -213,3 +213,5 @@ class ClinicalNEREngine:
         return summary
 
 # v1.1 - improved fallback pattern matching for DOSAGE entities
+
+# v1.2 - entity color palette updated for accessibility
