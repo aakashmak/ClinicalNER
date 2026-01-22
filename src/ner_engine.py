@@ -215,3 +215,5 @@ class ClinicalNEREngine:
 # v1.1 - improved fallback pattern matching for DOSAGE entities
 
 # v1.2 - entity color palette updated for accessibility
+
+# v1.3 - added Pfizer BNT162b2 and Moderna mRNA-1273 sample texts
