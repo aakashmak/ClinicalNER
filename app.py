@@ -200,3 +200,5 @@ elif run_btn and not input_text.strip():
     st.warning("Please enter some clinical text first.")
 else:
     st.info("👆 Paste a clinical trial abstract above and click **Extract Entities** to begin.")
+
+# v1.1 - entity badge rendering and CSV/JSON export added
