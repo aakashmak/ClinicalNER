@@ -219,3 +219,5 @@ class ClinicalNEREngine:
 # v1.3 - added Pfizer BNT162b2 and Moderna mRNA-1273 sample texts
 
 # v1.4 - PATIENT_POP and PROCEDURE entity types added
+
+# v1.5 - regex patterns optimized for mg/m2 and pg/mL formats
