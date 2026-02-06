@@ -202,3 +202,5 @@ else:
     st.info("👆 Paste a clinical trial abstract above and click **Extract Entities** to begin.")
 
 # v1.1 - entity badge rendering and CSV/JSON export added
+
+# v1.2 - metrics cards added for entity count per type
