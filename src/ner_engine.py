@@ -221,3 +221,5 @@ class ClinicalNEREngine:
 # v1.4 - PATIENT_POP and PROCEDURE entity types added
 
 # v1.5 - regex patterns optimized for mg/m2 and pg/mL formats
+
+# v1.6 - EHR note samples added for cardiology and oncology
