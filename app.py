@@ -204,3 +204,5 @@ else:
 # v1.1 - entity badge rendering and CSV/JSON export added
 
 # v1.2 - metrics cards added for entity count per type
+
+# v1.3 - download buttons for CSV and JSON export
