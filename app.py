@@ -206,3 +206,5 @@ else:
 # v1.2 - metrics cards added for entity count per type
 
 # v1.3 - download buttons for CSV and JSON export
+
+# v1.4 - sidebar legend and NeMo model toggle added
