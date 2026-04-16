@@ -150,37 +150,6 @@ ClinicalNER/
 ├── requirements.txt
 └── README.md
 ```
-
----
-
-## 🔭 Roadmap
-
-- [ ] Fine-tune NeMo model on [BC5CDR](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/) biomedical NER dataset
-- [ ] Add CDISC SDTM domain mapping layer
-- [ ] Integrate NVIDIA NIM inference microservice for GPU-accelerated deployment
-- [ ] Batch processing for 1000+ abstracts via CSV upload
-- [ ] Add relation extraction (drug → adverse event linkage)
-
----
-
-## 🏥 Use Cases
-
-- **Pharmaceutical companies** — automated extraction from clinical study reports
-- **CROs** — accelerate CDISC data mapping and validation
-- **Medical literature mining** — structured data from PubMed/ClinicalTrials.gov
-- **Pharmacovigilance** — adverse event signal detection from unstructured sources
-
----
-
-## 👤 Author
-
-**Aakash Mathivanan**
-- MS Data Analytics, Northeastern University
-- Senior Data Engineer @ Saama Technologies (AbbVie, Moderna, PPD)
-- [GitHub](https://github.com/aakashmak) | [Email](mailto:aakashmak1809@gmail.com)
-
----
-
 ## 📄 License
 
 MIT License — see [LICENSE](LICENSE) for details.
